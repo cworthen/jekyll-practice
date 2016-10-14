@@ -1,2 +1,2 @@
-baseurl: /techblog
+baseurl: /jekyll-practice
 exclude: ['README.md']
