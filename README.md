@@ -1,3 +1,3 @@
 # jekyll-practice
 
-Learning and practice web development with Jekyll. 
+Learning and practicing web development with Jekyll. 
